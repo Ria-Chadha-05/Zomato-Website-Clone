@@ -62,20 +62,28 @@ It is created **for learning and demonstration purposes** to practice frontend d
 # 🏗 Project Structure
 
 ```
-zomato-clone/
+zomato-clone
 │
 ├── index.html
 ├── styles.css
-│
-├── heroSectionLogo.png
-├── item1.png
-├── item2.png
-├── item3.png
-├── mobileBanner.png
-├── playStore.png
-├── appleStore.png
-├── logo.png
-└── zomato.jpg
+├── README.md
+├── .gitignore
+└── images
+        ├── appleStore.png
+        ├── collection1.jpg
+        ├── collection2.jpg
+        ├── collection3.jpg
+        ├── collection4.jpg
+        ├── heroSectionBackground.png
+        ├── heroSectionLogo.png
+        ├── item1.png
+        ├── item2.png
+        ├── item3.png
+        ├── item4.png
+        ├── logo.png
+        ├── mobileBanner.png
+        ├── playStore.png
+        └── zomato.jpg
 ```
 
 ---
@@ -107,8 +115,11 @@ No installation or dependencies required.
 
 # 📸 Preview
 
-
-
+<p align="center">
+  <a href="https://youtu.be/y8UGrL_NeUg">
+    <img src="https://img.youtube.com/vi/y8UGrL_NeUg/maxresdefault.jpg" width="800">
+  </a>
+</p>
 
 ---
 
@@ -133,5 +144,3 @@ It is **not affiliated with or endorsed by Zomato**.
 # 👩‍💻 Author
 
 **Ria Chadha**
-
-© 2026
