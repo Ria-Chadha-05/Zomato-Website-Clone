@@ -56,8 +56,6 @@ It is created **for learning and demonstration purposes** to practice frontend d
 |------|-------------|
 | **Frontend** | HTML5 |
 | **Styling** | CSS3 |
-| **Icons** | Font Awesome |
-| **Fonts** | Google Fonts (Poppins) |
 
 ---
 
@@ -109,13 +107,8 @@ No installation or dependencies required.
 
 # 📸 Preview
 
-Add screenshots of the project UI here.
 
-Example:
 
-```
-![Homepage Preview](preview.png)
-```
 
 ---
 
